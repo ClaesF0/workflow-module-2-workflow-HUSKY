@@ -19,7 +19,7 @@
     },
     "homepage": "https://github.com/ClaesF0/workflow-module-2-workflow-HUSKY#readme",
     "devDependencies": {
-        "husky": "^7.0.4",
+        "husky": "^3.1.0",
         "prettier": "^2.7.1",
         "pretty-quick": "^3.1.3"
     },
