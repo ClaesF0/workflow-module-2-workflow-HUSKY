@@ -1,0 +1,24 @@
+{
+    "name": "workflow-module-2-workflow-husky",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "write": "npx prettier --write .",
+        "check-format" : "npx prettier --check ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ClaesF0/workflow-module-2-workflow-HUSKY.git"
+    },
+    "author": "ClaesF0",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ClaesF0/workflow-module-2-workflow-HUSKY/issues"
+    },
+    "homepage": "https://github.com/ClaesF0/workflow-module-2-workflow-HUSKY#readme",
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    }
+}
