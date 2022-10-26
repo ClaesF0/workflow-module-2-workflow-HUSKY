@@ -19,13 +19,13 @@
     },
     "homepage": "https://github.com/ClaesF0/workflow-module-2-workflow-HUSKY#readme",
     "devDependencies": {
-        "husky": "^8.0.1",
+        "husky": "^3.1.0",
         "prettier": "^2.7.1",
         "pretty-quick": "^3.1.3"
     },
-    "husky" : {
-      "hooks" : {
-        "pre-commit": "pretty-quick --staged"
-      }
+    "husky": {
+        "hooks": {
+            "pre-commit": "pretty-quick --staged"
+        }
     }
 }
